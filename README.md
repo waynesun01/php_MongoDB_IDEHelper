@@ -1,2 +1,2 @@
-# php_MongoDB_ideHelp
+# php_MongoDB_IDEHelper
 php mongoDB扩展ide代码提示
